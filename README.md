@@ -1,3 +1,3 @@
 www.yuta-kobayashi.com
 ===
-Mejiro Philharmonic Orchestra Official Website Backup.
+Official Website of Yuta Kobayashi, a Japanese Conductor.
