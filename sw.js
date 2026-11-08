@@ -1,8 +1,8 @@
-const version = '20261010225553';
+const version = '20261108214356';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/news/media-coverage-of-yuta-kobayashi-at-the-14th-guido-cantelli-international-conducting-competition/","/news/yuta-kobayashi-joined-kanagawa-philharmonic-orchestra-as-associate-conductor/","/about-ja/","/about/","/categories/","/contact/","/elements/","/gallery/","/news/","/","/manifest.json","/offline/","/schedule-past/","/schedule/","/assets/search.json","/search/","/assets/styles.css","/thanks/","/videos/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/news/media-coverage-of-yuta-kobayashi-at-the-14th-guido-cantelli-international-conducting-competition/","/news/yuta-kobayashi-joined-kanagawa-philharmonic-orchestra-as-associate-conductor/","/about-ja/","/about/","/categories/","/contact/","/elements/","/gallery/","/news/","/","/manifest.json","/offline/","/repertoire/","/schedule-past/","/schedule/","/assets/search.json","/search/","/assets/styles.css","/thanks/","/videos/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
